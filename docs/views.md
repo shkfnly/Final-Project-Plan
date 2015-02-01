@@ -3,24 +3,24 @@
 ## New Session
 ![new-session]
 
-## Feed Show (landing page)
+## New User
 ![feed-show]
 
-## Blog Show
-![blog-show]
+## Home Page
+![home-page]
 
-## Post Show
-![post-show]
+## Explore: Most Liked Pictures
+![most-liked-pictures]
 
-## Post Form
-![post-form]
+## Profile Page
+![profile-page]
 
-## Search Results
-![search-results]
+## Upon Hover of Picture
+![picture-hover]
 
-[new-session]: ./wireframes/new_session.png
-[feed-show]: ./wireframes/feed_show.png
-[blog-show]: ./wireframes/blog_show.png
-[post-show]: ./wireframes/post_show.png
-[post-form]: ./wireframes/post_form.png
-[search-results]: ./wireframes/search_results.png
+[new-session]: ./wireframes/new-session.png
+[new-user]: ./wireframes/new-user.png
+[home-page]: ./wireframes/home-pag.png
+[most-liked-pictures]: ./wireframes/explore-most-liked-pictures.png
+[profile-page]: ./wireframes/profile-page.png
+[picture-hover]: ./wireframes/picture-hover.png
