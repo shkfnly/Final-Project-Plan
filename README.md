@@ -1,4 +1,4 @@
-# Flux-capacitr
+# model findr
 
 [Heroku link][heroku]
 
