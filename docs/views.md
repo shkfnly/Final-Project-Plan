@@ -4,7 +4,7 @@
 ![new-session]
 
 ## New User
-![feed-show]
+![new-user]
 
 ## Home Page
 ![home-page]
@@ -20,7 +20,7 @@
 
 [new-session]: ./wireframes/new-session.png
 [new-user]: ./wireframes/new-user.png
-[home-page]: ./wireframes/home-pag.png
+[home-page]: ./wireframes/home-page.png
 [most-liked-pictures]: ./wireframes/explore-most-liked-pictures.png
 [profile-page]: ./wireframes/profile-page.png
 [picture-hover]: ./wireframes/picture-hover.png
