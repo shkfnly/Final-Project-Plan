@@ -1,23 +1,23 @@
-# Phase 1: User Authentication, Basic Blogs and Posts
+# Phase 1: User Auth, Investigate Picture storing, maybe JSON API routes
 
 ## Rails
 ### Models
 * User
-* Blog
-* Post
+* UserView
+* Image
+* ImageLike
 
 ### Controllers
-* UsersController (create, new)
+* UsersController (create, new, show, update)
+* UserViewsController (create, index)
 * SessionsController (create, new, destroy)
-* BlogsController (create, new, show)
-* PostsController (create, new, show)
+* (Do I even need a controller for this?) ImagesController (create, new, destroy)
+* ImageLikesController (create, index)
 
 ### Views
 * users/new.html.erb
 * session/new.html.erb
-* blogs/new.html.erb
-* blogs/show.html.erb
-* posts/show.html.erb
+* images/new.html.erb
 
 ## Backbone
 ### Models
@@ -27,3 +27,5 @@
 ### Views
 
 ## Gems/Libraries
+* 'pry-rails'
+* (maybe?)'filepicker.io'

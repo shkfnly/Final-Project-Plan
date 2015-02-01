@@ -69,7 +69,7 @@ view for the users of that city.
 [Details][phase-four]
 
 ### Phase 5: Showing and liking a photo, styling (~2 days)
-It should possible to like a picture without showing it. I hope I have time for
+It should be possible to like a picture without showing it. I hope I have time for
 styling :(
 
 [Details][phase-five]

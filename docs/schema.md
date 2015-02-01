@@ -20,8 +20,8 @@ column name     | data type | details
 id              | integer   | not null, primary key
 viewed_user_id  | string    | not null
 
-<!-- how will picture storing work? -->
-<!-- ## picture_posts
+how will picture storing work?
+## picture_posts
 column name     | data type | details
 ----------------|-----------|-----------------------
 id              | integer   | not null, primary key
@@ -33,4 +33,4 @@ column name     | data type | details
 ----------------|-----------|-----------------------
 id              | integer   | not null, primary key
 liker_id        | integer   | not null
-picture_id      | integer   | not null, (unique in context of liker_id)  -->
+picture_id      | integer   | not null, (unique in context of liker_id)

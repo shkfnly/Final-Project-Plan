@@ -1,26 +1,32 @@
-# Phase 2: JSON API and First Backbone Views
+# Phase 2: Finish JSON API, be able to upload pictures, profile page
 
 ## Rails
 ### Models
 
 ### Controllers
-Api::BlogsController (create, destroy, index, show)
-Api::PostsController (create, destroy, show, update)
+Api::UsersController (create, show)
+Api::UserViewsController (create, index)
+Api::ImagesController (create, destroy, show)
+Api::ImageLikesController (index)
 
 ### Views
-* blogs/show.json.jbuilder
+* users/show.json.jbuilder
+* images/index.json.jbuilder
 
 ## Backbone
 ### Models
-* Blog (parses nested `posts` association)
-* Post
+* User (parses nested images if present)
+* UserView
+* (Needed?)Image
 
 ### Collections
-* Blogs
-* Posts
+* (Needed?)Images
+* UserViews
 
 ### Views
-* BlogShow (composite view, contains PostShow subviews)
-* PostShow
+* UserShow (composite view, contains ImageIndexItem subviews)
+* ImageIndexItem
+* ImageNew
 
 ## Gems/Libraries
+* 'filepicker.io'

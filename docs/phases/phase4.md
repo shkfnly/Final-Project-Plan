@@ -1,21 +1,20 @@
-# Phase 4: User Feeds
+# Phase 4: Search bar
 
 ## Rails
 ### Models
 
 ### Controllers
-Api::PostsController (feed)
+Api::UsersController (search)
 
 ### Views
-posts/feed.json.jbuilder
 
 ## Backbone
 ### Models
 
 ### Collections
-* FeedPosts
 
 ### Views
-* FeedShow (composite view, contains PostShow subviews)
+* SearchResultsByCity
 
 ## Gems/Libraries
+* Google Maps
