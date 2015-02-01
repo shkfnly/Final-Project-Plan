@@ -28,7 +28,7 @@ id              | integer   | not null, primary key
 user_id         | integer   | not null
 caption         | string    |  -->
 
-<!-- ## picture_likes
+## picture_likes
 column name     | data type | details
 ----------------|-----------|-----------------------
 id              | integer   | not null, primary key
