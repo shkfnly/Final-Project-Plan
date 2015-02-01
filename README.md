@@ -74,16 +74,6 @@ to like a picture without showing it. I hope I have time for styling :(
 
 [Details][phase-five]
 
-### Bonus Features (TBD)
-- [ ] Activity history for posts (e.g. likes, reblogs, taggings)
-- [x] Custom urls for blogs
-- [x] 'Like' button and counter for `PostShow` view
-- [x] Pagination of the `FeedShow`, `SearchShow`, and `BlogShow` views
-- [ ] Post types with distinct views (image posts, quote posts, etc)
-- [ ] Reblogging
-- [ ] Support for multiple open sessions
-- [x] User avatars
-
 [phase-one]: ./docs/phases/phase1.md
 [phase-two]: ./docs/phases/phase2.md
 [phase-three]: ./docs/phases/phase3.md
